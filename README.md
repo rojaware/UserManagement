@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 ## To-do list
 
 * CRUD operation for User profile with SQL Server or any other database including MongoDB
-* Integrate with QueryCat
+* Integrate with QueryCat - https://github.com/rojaware/QueryCat
 * User Approval Workflow
 
 ## Contributing
